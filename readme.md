@@ -9,7 +9,7 @@
 
 ## Ecommerce Website/E-Shop
 
-> -It's a ecommerce website.It's a opren source site management system using laravel 5.7
+It's a ecommerce website.It's a opren source site management system using laravel 5.7
 
 ##Packages Used
 
@@ -17,21 +17,22 @@
 
 ## Installation Instructions
 
-> -Clone the repo.
-> -Run 'composer install'
-> -Run 'cp .env.example.env'
-> -Run 'php artisan migrate --seed'
+- Clone the repo.
+- Run 'composer install'
+- Run 'cp .env.example.env'
+- Run 'php artisan migrate --seed'
 
 
 ## Contribution Guideline
 
-> -Fork the repo.
-> -Clone the repo locally.
-> -Run 'git checkout dev'
-> -Work on your loacal branch
-> -Push to remote
-> -When work is tested,done or ready,push to remote
-> -Merge to dev
+- Fork the repo.
+- Clone the repo locally.
+- Run 'git checkout dev'
+- Create a new local branch
+- Work on your loacal branch
+- Push to remote
+- When work is tested,done or ready,push to remote
+- Merge to dev
 
 
 ## Contributing
